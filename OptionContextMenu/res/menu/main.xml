@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+          android:icon="@drawable/pyramid" 
+        android:title="@string/action_settings"/>
+  <item android:id="@+id/clear"
+         android:icon="@drawable/open_folder" 
+         android:title="Clear All"
+        />
+  <item android:id="@+id/remove"
+         android:icon="@drawable/password" 
+         android:title="Orientation"
+        />
+  <item android:id="@+id/close"
+         android:icon="@drawable/pen_drive" 
+         android:title="Close App"
+        />
+  <item android:id="@+id/go"
+         android:icon="@drawable/pencil" 
+         android:title="Show"
+        />
+</menu>

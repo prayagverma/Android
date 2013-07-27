@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="100"
+         android:icon="@drawable/pyramid" 
+        android:title="Update"/>
+<item android:id="@+id/show"
+         android:icon="@drawable/open_folder" 
+         android:title="Show"
+        />
+  <item android:id="@+id/remove"
+         android:icon="@drawable/password" 
+         android:title="Delete"
+        />
+  <item android:id="@+id/close"
+         android:icon="@drawable/pen_drive" 
+         android:title="Close App"
+        />
+   
+</menu>

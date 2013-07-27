@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+android:oneshot="false">
+<item android:drawable="@drawable/atlas11" android:duration="100" />
+<item android:drawable="@drawable/atlas22" android:duration="100" />
+<item android:drawable="@drawable/atlas33" android:duration="100" />
+<item android:drawable="@drawable/atlas44" android:duration="100" />
+<item android:drawable="@drawable/atlas55" android:duration="100" />
+<item android:drawable="@drawable/atlas66" android:duration="100" />
+<item android:drawable="@drawable/atlas77" android:duration="100" />
+<item android:drawable="@drawable/atlas88" android:duration="100" /> 
+</animation-list>

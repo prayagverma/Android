@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DynamicSignup</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string-array name="array_names">
+<item>SELECT A COUNTRY</item>
+<item>AU : AUSTRALIA</item>
+</string-array>
+
+<string-array name="array_au">
+<item>SELECT A STATE</item>
+<item>Victoria</item>
+<item>Queensland</item>
+<item>Tasmania</item>
+<item>New South Wales</item>
+<item>Western Australia</item>
+</string-array>
+
+<string-array name="array_au_vi">
+<item>SELECT A CITY</item>
+<item>Melbourne</item>
+<item>Geelong</item>
+<item>Traralgon</item>
+<item>Wangaratta</item>
+<item>Warrnambool</item>
+</string-array>
+
+<string-array name="array_au_qu">
+    <item>SELECT A CITY</item>
+<item>Brisbane</item>
+<item>Gold Coast</item>
+<item>Townsville</item>
+<item>Cairns</item>
+<item>Toowoomba</item>
+</string-array>
+
+<string-array name="array_au_ta">
+    <item>SELECT A CITY</item>
+<item>Hobart</item>
+<item>Clarence</item>
+<item>Glenorchy</item>
+<item>Burnie</item>
+<item>Devonport</item>
+</string-array>
+
+<string-array name="array_au_ne">
+    <item>SELECT A CITY</item>
+<item>Sydney</item>
+<item>Gosford</item>
+<item>Wollongong</item>
+<item>Maitland</item>
+<item>Tamworth</item>
+</string-array>
+
+<string-array name="array_au_we">
+    <item>SELECT A CITY</item>
+<item>Perth</item>
+<item>Albany</item>
+<item>Mandurah‎</item>
+<item>Joondalup</item>
+<item>Rockingham</item>
+</string-array>
+
+<string-array name="array_ca">
+    <item>SELECT A STATE</item>
+<item>Ontario</item>
+<item>Quebec</item>
+<item>Nova Scotia</item>
+<item>Manitoba</item>
+<item>Alberta</item>
+</string-array>
+
+<string-array name="array_ca_on">
+    <item>SELECT A CITY</item>
+<item>Toronto</item>
+<item>Ottawa</item>
+<item>Vaughan</item>
+<item>Brampton</item>
+<item>Hamilton</item>
+</string-array>
+
+<string-array name="array_ca_qu">
+    <item>SELECT A CITY</item>
+<item>Gatineau</item>
+<item>Laval</item>
+<item>Longueuil</item>
+<item>Montreal</item>
+<item>Sherbrooke</item>
+</string-array>
+
+<string-array name="array_ca_no">
+    <item>SELECT A CITY</item>
+<item>Halifax</item>
+<item>Berwick</item>
+<item>Bridgetown</item>
+<item>Canning</item>
+<item>Greenwood</item>
+</string-array>
+
+<string-array name="array_ca_ma">
+    <item>SELECT A CITY</item>
+<item>Winnipeg</item>
+<item>Thompson</item>
+<item>Brandon</item>
+<item>Selkirk</item>
+<item>Dauphin</item>
+</string-array>
+
+<string-array name="array_ca_al">
+    <item>SELECT A CITY</item>
+<item>Airdrie</item>
+<item>Edmonton</item>
+<item>Leduc</item>
+<item>Lethbridge</item>
+<item>Calgary</item>
+</string-array>
+
+
+ 
+</resources>

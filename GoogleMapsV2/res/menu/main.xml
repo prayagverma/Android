@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+     <item
+        android:id="@+id/polygon"
+        android:orderInCategory="100"
+        android:icon="@drawable/polygon"
+        android:title="Polygon"/>
+     
+      <item
+        android:id="@+id/polyline"
+        android:orderInCategory="100"
+        android:icon="@drawable/polyline"
+        android:title="PolyLines"/>
+      
+       <item
+        android:id="@+id/circle"
+        android:orderInCategory="100"
+        android:icon="@drawable/circle"
+        android:title="Circles"/>
+
+</menu>

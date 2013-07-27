@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Different Spinner</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string-array name="array_names">
+<item>AD : ANDORRA</item>
+<item>AE : UNITED ARAB EMIRATES</item>
+<item>AF : AFGHANISTAN</item>
+<item>AG : ANTIGUA AND BARBUDA</item>
+<item>AI : ANGUILLA</item>
+<item>AL : ALBANIA</item>
+<item>AM : ARMENIA</item> 
+</string-array>
+</resources>

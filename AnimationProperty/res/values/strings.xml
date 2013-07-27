@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Animation Property</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="wheel">Steering Wheel</string>
+<string name="ground">The Ground</string>
+<string name="window">Window Frame</string>
+<string name="sun">The Sun</string>
+<string name="cloud">A Cloud</string>
+</resources>

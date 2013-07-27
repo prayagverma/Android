@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gmail Signup Form</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string-array name="array_name">
+<item>Male</item>
+<item>Female</item>
+<item>Other</item>
+</string-array>
+
+<string-array name="array_names">
+<item>AD : ANDORRA</item>
+<item>AE : UNITED ARAB EMIRATES</item>
+<item>AF : AFGHANISTAN</item>
+<item>AG : ANTIGUA AND BARBUDA</item>
+<item>AI : ANGUILLA</item>
+<item>AL : ALBANIA</item>
+<item>AM : ARMENIA</item>
+<item>AN : NETHERLANDS ANTILLES</item>
+<item>AO : ANGOLA</item>
+<item>AQ : ANTARCTICA</item>
+<item>AR : ARGENTINA</item>
+<item>AS : AMERICAN SAMOA</item>
+<item>AT : AUSTRIA</item>
+<item>AU : AUSTRALIA</item>
+<item>AW : ARUBA</item>
+<item>AZ : AZERBAIJAN</item>
+<item>BA : BOSNIA AND HERZEGOVINA</item>
+<item>BB : BARBADOS</item>
+<item>BD : BANGLADESH</item>
+<item>BE : BELGIUM</item>
+<item>BF : BURKINA FASO</item>
+<item>BG : BULGARIA</item>
+<item>BH : BAHRAIN</item>
+<item>BI : BURUNDI</item>
+<item>BJ : BENIN</item>
+<item>BM : BERMUDA</item>
+<item>BN : BRUNEI DARUSSALAM</item>
+<item>BO : BOLIVIA</item>
+<item>BR : BRAZIL</item>
+<item>BS : BAHAMAS</item>
+<item>BT : BHUTAN</item>
+<item>BV : BOUVET ISLAND</item>
+<item>BW : BOTSWANA</item>
+<item>BY : BELARUS</item>
+<item>BZ : BELIZE</item>
+<item>CA : CANADA</item>
+<item>CC : COCOS (KEELING) ISLANDS</item>
+<item>CD : CONGO, THE DEMOCRATIC REPUBLIC OF THE</item>
+<item>CF : CENTRAL AFRICAN REPUBLIC</item>
+<item>CG : CONGO</item>
+<item>CH : SWITZERLAND</item>
+<item>CI : COTE DIVOIRE</item>
+<item>CK : COOK ISLANDS</item>
+<item>CL : CHILE</item>
+<item>CM : CAMEROON</item>
+<item>CN : CHINA</item>
+<item>CO : COLOMBIA</item>
+<item>CR : COSTA RICA</item>
+<item>CU : CUBA</item>
+<item>CV : CAPE VERDE</item>
+<item>CX : CHRISTMAS ISLAND</item>
+<item>CY : CYPRUS</item>
+<item>CZ : CZECH REPUBLIC</item>
+<item>DE : GERMANY</item>
+<item>DJ : DJIBOUTI</item>
+<item>DK : DENMARK</item>
+<item>DM : DOMINICA</item>
+<item>DO : DOMINICAN REPUBLIC</item>
+<item>DZ : ALGERIA</item>
+<item>EC : ECUADOR</item>
+<item>EE : ESTONIA</item>
+<item>EG : EGYPT</item>
+<item>EH : WESTERN SARARA</item>
+<item>ER : ERITREA</item>
+<item>ES : SPAIN</item>
+<item>ET : ETHIOPIA</item>
+<item>FI : FINLAND</item>
+<item>FJ : FIJI</item>
+<item>FK : FALKLAND ISLANDS (MALVINAS)</item>
+<item>FM : MICRONESIA, FEDERATED STATES OF</item>
+<item>FO : FAROE ISLANDS</item>
+<item>FR : FRANCE</item>
+<item>GA : GABON</item>
+<item>GB : UNITED KINGDOM</item>
+<item>GD : GRENADA</item>
+<item>GE : GEORGIA</item>
+<item>GF : FRENCH GUIANA</item>
+<item>GH : GHANA</item>
+<item>GI : GIBRALTAR</item>
+<item>GL : GREENLAND</item>
+<item>GM : GAMBIA</item>
+<item>GN : GUINEA</item>
+<item>GP : GUADELOUPE</item>
+<item>GQ : EQUATORIAL GUINEA</item>
+<item>GR : GREECE</item>
+<item>GS : SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</item>
+<item>GT : GUATEMALA</item>
+<item>GU : GUAM</item>
+<item>GW : GUINEA-BISSAU</item>
+<item>GY : GUYANA</item>
+<item>HK : HONG KONG</item>
+<item>HM : HEARD ISLAND AND MCDONALD ISLANDS</item>
+<item>HN : HONDURAS</item>
+<item>HR : CROATIA</item>
+<item>HT : HAITI</item>
+<item>HU : HUNGARY</item>
+<item>ID : INDONESIA</item>
+<item>IE : IRELAND</item>
+<item>IL : ISRAEL</item>
+<item>IN : INDIA</item>
+<item>IO : BRITISH INDIAN OCEAN TERRITORY</item>
+<item>IQ : IRAQ</item>
+<item>IR : IRAN, ISLAMIC REPUBLIC OF</item>
+<item>IS : ICELAND</item>
+<item>IT : ITALY</item>
+<item>JM : JAMAICA</item>
+<item>JO : JORDAN</item>
+<item>JP : JAPAN</item>
+<item>KE : KENYA</item>
+<item>KG : KYRGYZSTAN</item>
+<item>KH : CAMBODIA</item>
+<item>KI : KIRIBATI</item>
+<item>KM : COMOROS</item>
+<item>KN : SAINT KITTS AND NEVIS</item>
+<item>KP : KOREA, DEMOCRATIC PEOPLES REPUBLIC OF</item>
+<item>KR : KOREA, REPUBLIC OF</item>
+<item>KW : KUWAIT</item>
+<item>KY : CAYMAN ISLANDS</item>
+<item>KZ : KAZAKHSTAN</item>
+<item>LA : LAO PEOPLES DEMOCRATIC REPUBLIC</item>
+<item>LB : LEBANON</item>
+<item>LC : SAINT LUCIA</item>
+<item>LI : LIECHTENSTEIN</item>
+<item>LK : SRI LANKA</item>
+<item>LR : LIBERIA</item>
+<item>LS : LESOTHO</item>
+<item>LT : LITHUANIA</item>
+<item>LU : LUXEMBOURG</item>
+<item>LV : LATVIA</item>
+<item>LY : LIBYAN ARAB JAMABIRIYA</item>
+<item>MA : MOROCCO</item>
+<item>MC : MONACO</item>
+<item>MD : MOLDOVA, REPUBLIC OF</item>
+<item>MG : MADAGASCAR</item>
+<item>MH : MARSHALL ISLANDS</item>
+<item>MK : MACEDONIA, THE FORMER YUGOSLAV REPU8LIC OF</item>
+<item>ML : MALI</item>
+<item>MM : MYANMAR</item>
+<item>MN : MONGOLIA</item>
+<item>MO : MACAU</item>
+<item>MP : NORTHERN MARIANA ISLANDS</item>
+<item>MQ : MARTINIQUE</item>
+<item>MR : MAURITANIA</item>
+<item>MS : MONTSERRAT</item>
+<item>MT : MALTA</item>
+<item>MU : MAURITIUS</item>
+<item>MV : MALDIVES</item>
+<item>MW : MALAWI</item>
+<item>MX : MEXICO</item>
+<item>MY : MALAYSIA</item>
+<item>MZ : MOZAMBIQUE</item>
+<item>NA : NAMIBIA</item>
+<item>NC : NEW CALEDONIA</item>
+<item>NE : NIGER</item>
+<item>NF : NORFOLK ISLAND</item>
+<item>NG : NIGERIA</item>
+<item>NI : NICARAGUA</item>
+<item>NL : NETHERLANDS</item>
+<item>NO : NORWAY</item>
+<item>NP : NEPAL</item>
+<item>NU : NIUE</item>
+<item>NZ : NEW ZEALAND</item>
+<item>OM : OMAN</item>
+<item>PA : PANAMA</item>
+<item>PE : PERU</item>
+<item>PF : FRENCH POLYNESIA</item>
+<item>PG : PAPUA NEW GUINEA</item>
+<item>PH : PHILIPPINES</item>
+<item>PK : PAKISTAN</item>
+<item>PL : POLAND</item>
+<item>PM : SAINT PIERRE AND MIQUELON</item>
+<item>PN : PITCAIRN</item>
+<item>PR : PUERTO RICO</item>
+<item>PT : PORTUGAL</item>
+<item>PW : PALAU</item>
+<item>PY : PARAGUAY</item>
+<item>QA : QATAR</item>
+<item>RE : R�UNION</item>
+<item>RO : ROMANIA</item>
+<item>RU : RUSSIAN FEDERATION</item>
+<item>RW : RWANDA</item>
+<item>SA : SAUDI ARABIA</item>
+<item>SB : SOLOMON ISLANDS</item>
+<item>SC : SEYCHELLES</item>
+<item>SD : SUDAN</item>
+<item>SE : SWEDEN</item>
+<item>SG : SINGAPORE</item>
+<item>SH : SAINT HELENA</item>
+<item>SI : SLOVENIA</item>
+<item>SJ : SVALBARD AND JAN MAYEN</item>
+<item>SK : SLOVAKIA</item>
+<item>SL : SIERRA LEONE</item>
+<item>SM : SAN MARINO</item>
+<item>SN : SENEGAL</item>
+<item>SO : SOMALIA</item>
+<item>SR : SURINAME</item>
+<item>ST : SAO TOME AND PRINCIPE</item>
+<item>SV : EL SALVADOR</item>
+<item>SY : SYRIAN ARAB REPUBLIC</item>
+<item>SZ : SWAZILAND</item>
+<item>TC : TURKS AND CAICOS ISLANDS</item>
+<item>TD : CHAD</item>
+<item>TF : FRENCH SOUTHERN TERRITORIES</item>
+<item>TG : TOGO</item>
+<item>TH : THAILAND</item>
+<item>TJ : TAJIKISTAN</item>
+<item>TK : TOKELAU</item>
+<item>TM : TURKMENISTAN</item>
+<item>TN : TUNISIA</item>
+<item>TO : TONGA</item>
+<item>TP : EAST TIMOR</item>
+<item>TR : TURKEY</item>
+<item>TT : TRINIDAD AND TOBAGO</item>
+<item>TV : TUVALU</item>
+<item>TW : TAIWAN, PROVINCE OF CHINA</item>
+<item>TZ : TANZANIA, UNITED REPUBLIC OF</item>
+<item>UA : UKRAINE</item>
+<item>UG : UGANDA</item>
+<item>UM : UNITED STATES MINOR OUTLYING ISLANDS</item>
+<item>US : UNITED STATES</item>
+<item>UY : URUGUAY</item>
+<item>UZ : UZBEKISTAN</item>
+<item>VE : VENEZUELA</item>
+<item>VG : VIRGIN ISLANDS, BRITISH</item>
+<item>VI : VIRGIN ISLANDS, U.S.</item>
+<item>VN : VIET NAM</item>
+<item>VU : VANUATU</item>
+<item>WF : WALLIS AND FUTUNA</item>
+<item>WS : SAMOA</item>
+<item>YE : YEMEN</item>
+<item>YT : MAYOTTE</item>
+<item>YU : YUGOSLAVIA</item>
+<item>ZA : SOUTH AFRICA</item>
+<item>ZM : ZAMBIA</item>
+<item>ZW : ZIMBABWE</item>
+</string-array>
+</resources>
